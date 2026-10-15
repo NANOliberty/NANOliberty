@@ -45,6 +45,6 @@ I build and ship iOS apps on my own, and usually take the backend in team projec
 ### Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NANOliberty&show_icons=true&hide_border=true&bg_color=F1E5E7&title_color=626780&text_color=626780&icon_color=AD707C&ring_color=AD707C" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANOliberty&layout=compact&hide_border=true&bg_color=F1E5E7&title_color=626780&text_color=626780" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NANOliberty&show_icons=true&hide_rank=true&custom_title=Chaeeun's%20GitHub%20Stats&hide_border=true&bg_color=F1E5E7&title_color=626780&text_color=626780&icon_color=AD707C" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANOliberty&layout=compact&exclude_repo=temp&hide_border=true&bg_color=F1E5E7&title_color=626780&text_color=626780" alt="Top Languages" />
 </p>
