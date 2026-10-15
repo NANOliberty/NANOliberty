@@ -34,13 +34,13 @@ I build and ship iOS apps on my own, and usually take the backend in team projec
 
 ### Activity
 
-- 2026.04 ~ · **Uncover Pixels** — solo-built iOS app, released on the App Store (May 2026), still maintained
-- 2026.06 ~ 2026.08 · **profAIssor** — backend & LLM integration · Grand Prize, 3rd Soongsil Learning Method Contest (숭실 학습법 경진대회)
-- 2025.09 ~ 2025.12 · Learning Community "복학즈" — home server setup & deployment · Best Team
-- 2025.06 ~ 2025.11 · **CheckTime** — backend · Encouragement Award, 3rd SSU IT Project Contest
-- 2023.10 ~ 2024.02 · INNO-SCHOOL Project+ (9th) · Grand Prize
-- 2023.10 · Co-author, *원큐패스 나는야 엔트리 화가* (Darakwon) — Entry coding textbook for kids
-- 2022.03 ~ 2023.03 · Python & Scratch instructor, Gguge (꾸그)
+- 2026.04 ~ · iOS 앱 **Uncover Pixels** 1인 개발 · App Store 출시(2026.05), 운영 중
+- 2026.06 ~ 2026.08 · **profAIssor** 백엔드·LLM 연동 · 제3회 숭실 학습법 경진대회 최우수상
+- 2025.09 ~ 2025.12 · 교수학습혁신센터 학습공동체 "복학즈" · 홈서버 구축·배포 · 최우수
+- 2025.06 ~ 2025.11 · **CheckTime** 백엔드 · 제3회 교내 IT 프로젝트 공모전 장려상
+- 2023.10 ~ 2024.02 · INNO-SCHOOL 프로젝트+ 9기 · 최우수상
+- 2023.10 · 다락원 『원큐패스 나는야 엔트리 화가』 공동 저자
+- 2022.03 ~ 2023.03 · 꾸그 파이썬·스크래치 강사
 
 ### Stats
 
